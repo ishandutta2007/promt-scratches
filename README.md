@@ -1,0 +1,1 @@
+Among Pakistan, Bangladesh who has higher GDP per capita and population than india . compare their GDP per capita and also their population density. Answer must be in bullet point for each country and separate paragraphs for GDP per capita and population density.
